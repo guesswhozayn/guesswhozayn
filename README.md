@@ -16,7 +16,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 I'm a full-stack engineer focused on building clean, efficient, and scalable web applications. I enjoy working across the entire stack, from designing robust backend databases and APIs to crafting responsive and intuitive user interfaces.
 
@@ -28,7 +28,7 @@ I'm a full-stack engineer focused on building clean, efficient, and scalable web
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -38,7 +38,7 @@ I'm a full-stack engineer focused on building clean, efficient, and scalable web
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I'm a full-stack engineer focused on building clean, efficient, and scalable web
 
 <br/>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
