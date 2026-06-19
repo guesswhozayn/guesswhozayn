@@ -20,10 +20,10 @@
 
 Full-stack engineer who architects systems end-to-end — async job queues, real-time pipelines, on-chain infrastructure — and ties every technical decision back to a measurable business outcome: faster hiring, lower fraud risk, fewer manual hours.
 
-- 🔭 Building **Picket** — multi-agent AI pipeline that turns days of manual screening into seconds
-- ⛓️ Shipped **Attestify** — blockchain credentialing infra, now a peer-reviewed publication
-- ⚙️ Comfortable across the stack: queues & caching → APIs → React UIs → smart contracts
-- 📫 Reach me at **hizainulabidin@gmail.com**
+- Building **Picket** — multi-agent AI pipeline that turns days of manual screening into seconds
+- Shipped **Attestify** — blockchain credentialing infra, now a peer-reviewed publication
+- Comfortable across the stack: queues & caching → APIs → React UIs → smart contracts
+- Reach me at **hizainulabidin@gmail.com**
 
 <br/>
 
