@@ -1,86 +1,77 @@
-# Zain Ul Abidin
-**Full-Stack Software Engineer**  
-*Building scalable, secure, and performant web applications with Web3 and AI infrastructure.*
+### Hi there, I'm Zain! 👋
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Full-Stack+Engineer;Web3+%26+AI+Developer;TypeScript+%26+Node.js+Specialist" alt="Typing SVG" />
+</p>
+
+- 🚀 Shipped **Picket** (an Agentic Candidate Screening Platform) & **Attestify** (a Blockchain Academic Credential system).
+- 🧠 Actively building at the intersection of **Generative AI Agents** and **Decentralized Applications**.
+- 🎓 Recently graduated BS in Computer Science (GPA: 3.43) with a published paper in blockchain & IPFS verification frameworks.
+- 💬 Ask me about **React 19, BullMQ/Redis pipelines, Solidity/SBTs, and Socket.io**.
+- 🛠️ Let's connect: [linkedin.com/in/z4yn](https://linkedin.com/in/z4yn) | [z4yn.vercel.app](https://z4yn.vercel.app) | [hizainulabidin@gmail.com](mailto:hizainulabidin@gmail.com)
 
 ---
 
-### 🌐 Contact & Social Links
-[![Email](https://img.shields.io/badge/Email-hizainulabidin%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:hizainulabidin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fz4yn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/z4yn)
-[![GitHub](https://img.shields.io/badge/GitHub-guesswhozayn-black?style=flat&logo=github)](https://github.com/guesswhozayn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-z4yn.vercel.app-gray?style=flat&logo=vercel)](https://z4yn.vercel.app)
+### 🛠️ Tech Stack & Tooling
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,react,nextjs,redux,nodejs,express,postgres,mongodb,redis,prisma,docker,git,github,vercel,linux" alt="My Tech Stack" />
+  </a>
+</p>
 
 ---
 
-### 👤 Profile Summary
-Results-driven Full-Stack Software Engineer with a strong foundation in Computer Science. Proficient in designing and deploying scalable web applications using React, Node.js, and TypeScript. Adept at building robust RESTful APIs, optimizing database performance, and integrating modern Web3 and AI infrastructure. Strong focus on clean code, system architecture, and CI/CD pipelines to deliver high-impact, user-centric solutions.
+### 💻 Featured Projects
+
+#### 🤖 [Picket — Agentic Candidate Screening Platform](https://picket-hr.vercel.app)
+> Background check automation using a multi-agent AI system and BullMQ background processing.
+
+* **Stack:** Node.js, Express, BullMQ, Redis, React, Next.js, Socket.io
+* ⚡ Compressed manual candidate pre-screening to **< 5 seconds** per applicant.
+* 📉 Removed **85% of pipeline noise** before human recruiters review profiles.
+* 🔄 Delivered live UI updates within **80ms** using Socket.io broadcast events.
+
+#### 🔗 [Attestify — Blockchain Academic Credential Infrastructure](https://attestify-alpha.vercel.app)
+> Issuing tamper-proof academic credentials on Ethereum and IPFS.
+
+* **Stack:** React 19, Node.js, MongoDB, Ethereum (Solidity), IPFS (Pinata)
+* 🎓 Academic certificates minted as non-transferable **Soulbound Tokens (SBTs)** directly to wallets.
+* 📦 Verified permanently via **IPFS** stored document addresses, eliminating verification calls.
+* 📄 Published research paper based on this platform architecture in *Spectrum of Engineering Sciences*.
 
 ---
 
-### 🛠️ Technical Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Solidity, C++, SQL |
-| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, HTML5/CSS3, WebSockets |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs, GraphQL, Microservices, Socket.io |
-| **Databases & Cache** | PostgreSQL, MongoDB, Redis, Mongoose, Prisma ORM |
-| **DevOps & Tools** | Git/GitHub, Docker, CI/CD (GitHub Actions), Vercel, Render, Linux, Jest, Postman |
+### 📝 Publications & Research
+* **Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification**
+  * *Spectrum of Engineering Sciences | June 2026*
+  * Proposing decentralized architectures utilizing SBTs and dual-anchor document integrity.
+  * [Read Paper on Theses Journal](https://thesesjournal.com) | DOI: [10.5281/zenodo.20655578](https://doi.org/10.5281/zenodo.20655578)
 
 ---
 
-### 🚀 Key Projects
+### ⚡ GitHub Stats & Streak
 
-#### **Picket: Agentic Candidate Screening Platform** | [Live Demo](https://picket-hr.vercel.app)
-*Jan 2026 – May 2026*
-* **Core Stack:** Node.js, BullMQ, Redis, Socket.io, React, Next.js
-* Compressed candidate pre-screening from days of manual effort to **under 5 seconds per applicant** by building an end-to-end background check pipeline utilizing a three-agent AI system.
-* Reduced time-to-hire by filter-screening **85% of pipeline noise** before recruiter review, focusing team resources on qualified talent.
-* Integrated live status updates via **Socket.io** pairing with background job processors to broadcast status changes in under **80ms**.
+<p align="center">
+  <a href="https://github.com/guesswhozayn">
+    <img src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="GitHub Stats" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guesswhozayn&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="180px" />
+  </a>
+</p>
 
-#### **Attestify: Blockchain-based Academic Credential Infrastructure** | [Live Demo](https://attestify-alpha.vercel.app)
-*Oct 2025 – Mar 2026*
-* **Core Stack:** React 19, Node.js, MongoDB, Ethereum (Solidity), IPFS (Pinata)
-* Developed a decentralized credentialing platform to issue tamper-proof academic certificates, eliminating manual verification processes.
-* Enabled permanent availability by storing documents on **IPFS via Pinata** and anchoring content hashes on-chain.
-* Implemented Soulbound Tokens (**ERC-721 non-transferable**) directly to student wallets as a secure, non-transferable credential format.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" height="160px" />
+</p>
 
 ---
 
-### 📝 Publications
-
-#### **Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification**
-*Spectrum of Engineering Sciences | June 2026*
-* Authored a research paper detailing a decentralized architecture combining non-transferable Soulbound Tokens (SBTs) and dual-anchor document integrity (SHA-256 and IPFS) to prevent academic credential fraud.
-* **DOI:** [10.5281/zenodo.20655578](https://doi.org/10.5281/zenodo.20655578) | **Link:** [Read Paper](https://thesesjournal.com)
+### 📜 Certifications
+* 🐍 **Web Programming with Python & JavaScript** (Harvard CS50)
+* ⚛️ **Certified React Developer** (HackerRank)
+* 🔐 **Blockchain Basics** (Cyfrin Updraft)
 
 ---
 
-### 🎓 Education & Certifications
-
-#### **Education**
-* **Bachelor of Science in Computer Science** — The University of Chakwal (2022 – 2026)
-  * **CGPA:** 3.43 / 4.00
-  * *Relevant Coursework:* Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Web Engineering, Operating Systems, Software Engineering, Artificial Intelligence
-
-#### **Certifications**
-* **Web Programming with Python and JavaScript** (Harvard CS50) — *August 2025*
-* **Certified React Developer** (HackerRank) — *July 2025*
-* **Blockchain Basics** (Cyfrin Updraft) — *October 2025*
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&theme=default&count_private=true&hide_title=false" alt="Zain's GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&theme=default" alt="Zain's Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <sub>Built with ❤️ by Zain. Let's build something epic together.</sub>
+</p>
