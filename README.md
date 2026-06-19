@@ -1,68 +1,74 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Zain Ul Abidin</h1>
+<h3 align="center">A Software Engineer from Pakistan 🇵🇰</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=800&color=FE428E&center=true&vCenter=true&width=700&lines=hey%2C+I'm+Zain+%F0%9F%91%8B;full-stack+%2B+web3+%2B+AI;i+build+things+that+ship" alt="typing header" />
+<br>
 
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Web3+%26+AI+Developer;TypeScript+%2B+Node.js+Specialist" alt="typing svg" />
+</p>
 
-<a href="https://z4yn.vercel.app"><img src="https://img.shields.io/badge/portfolio-z4yn.vercel.app-fe428e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/z4yn"><img src="https://img.shields.io/badge/linkedin-z4yn-a9fef7?style=for-the-badge&logo=linkedin&logoColor=141321" /></a>
-<a href="mailto:hizainulabidin@gmail.com"><img src="https://img.shields.io/badge/email-hizainulabidin-f8d847?style=for-the-badge&logo=gmail&logoColor=141321" /></a>
+<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623237622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644f4c65456f54776b46344e5446786f443164326d66314f636b776c457761674a537a37566e69316c59663046687a636c616c32534c49573337674f7a354978535478304f326a65362f77686174692d63686965662e676966">
 
-</div>
+<p align="left">
+  <a href="https://z4yn.vercel.app" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-z4yn.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
----
+- 🔭 I'm currently working on **[Picket](https://picket-hr.vercel.app)** — an agentic AI candidate screening platform
 
-I'm a software engineer based in Pakistan. I build full-stack web applications — mostly with TypeScript, Node.js, and React — and I've been exploring Web3 and AI tooling lately.
+- 🌱 I'm currently learning **Solidity, on-chain systems, and LLM orchestration**
 
-I care a lot about clean architecture, writing code that actually makes sense six months later, and shipping things that work reliably.
+- 👨‍💻 All of my projects are at [github.com/guesswhozayn](https://github.com/guesswhozayn)
 
-<br />
+- 📫 Reach me at **hizainulabidin@gmail.com**
 
-**what I'm working on**
-- wrapping up my final year at University of Chakwal (CS, graduating 2026)
-- [Picket](https://picket-hr.vercel.app) — an agentic candidate screening platform powered by a three-agent AI pipeline
-- [Attestify](https://attestify-alpha.vercel.app) — blockchain-based academic credential issuance using Soulbound Tokens + IPFS
+- 🎓 CS undergrad at **University of Chakwal** (graduating 2026, CGPA 3.43/4.00)
 
----
+- ⚡ Published researcher — [Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification](https://doi.org/10.5281/zenodo.20655578)
 
-**stack I use daily**
+<br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,solidity,python&theme=dark" alt="tech stack" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/z4yn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/guesswhozayn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:hizainulabidin@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
----
+<br>
 
-**a couple of things I've shipped**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,solidity,react,nextjs,redux,nodejs,express,postgres,redis,mongodb,prisma,docker,git,github,vercel,linux,html,css&theme=dark" alt="tech stack" />
+</p>
 
-<div align="center">
-<a href="https://github.com/guesswhozayn/picket">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guesswhozayn&repo=picket&bg_color=141321&border_color=fe428e&title_color=fe428e&text_color=a9fef7&icon_color=f8d847" />
-</a>
-<a href="https://github.com/guesswhozayn/attestify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guesswhozayn&repo=attestify&bg_color=141321&border_color=fe428e&title_color=fe428e&text_color=a9fef7&icon_color=f8d847" />
-</a>
-</div>
+<br>
 
----
+## 📊 GitHub Stats
 
-**numbers**
+[![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guesswhozayn&theme=github_dark)](https://github.com/guesswhozayn)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&count_private=true&bg_color=141321&border_color=fe428e&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&ring_color=fe428e" alt="stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&bg_color=141321&border_color=fe428e&title_color=fe428e&text_color=a9fef7&icon_color=f8d847" alt="top langs" />
-      </td>
-    </tr>
-  </table>
+<p>
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guesswhozayn&theme=github_dark" alt="repos per language" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guesswhozayn&theme=github_dark" alt="most commit language" />
+</p>
 
-  <br />
+<br><br><br><br><br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guesswhozayn&background=141321&border=fe428e&stroke=fe428e&ring=fe428e&fire=f8d847&currStreakNum=a9fef7&currStreakLabel=fe428e&sideLabels=a9fef7&sideNums=f8d847&dates=6e6a86" alt="streak" width="60%" />
+<p>
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guesswhozayn&theme=github_dark" alt="stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guesswhozayn&theme=github_dark&utcOffset=5" alt="productive time" />
+</p>
 
-  <br /><br />
+<br><br><br><br><br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guesswhozayn&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e&hide_border=false&border_color=fe428e" width="100%" alt="activity graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guesswhozayn&theme=dark" alt="streak" />
+</p>
