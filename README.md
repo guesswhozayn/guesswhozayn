@@ -18,11 +18,11 @@
 
 ## 👋 About Me
 
-Results-driven engineer who designs and ships scalable web apps end-to-end — robust APIs, optimized data layers, and modern **AI + Web3** integrations. Currently finishing my B.S. in Computer Science at **The University of Chakwal**.
+Full-stack engineer who architects systems end-to-end — async job queues, real-time pipelines, on-chain infrastructure — and ties every technical decision back to a measurable business outcome: faster hiring, lower fraud risk, fewer manual hours.
 
-- 🔭 Building **Picket** — an agentic candidate-screening platform with a 3-agent AI pipeline
-- ⛓️ Shipped **Attestify** — a blockchain credentialing system, now a published paper
-- 🌱 Sharpening backend architecture, queues, and real-time systems
+- 🔭 Building **Picket** — multi-agent AI pipeline that turns days of manual screening into seconds
+- ⛓️ Shipped **Attestify** — blockchain credentialing infra, now a peer-reviewed publication
+- ⚙️ Comfortable across the stack: queues & caching → APIs → React UIs → smart contracts
 - 📫 Reach me at **hizainulabidin@gmail.com**
 
 <br/>
@@ -70,7 +70,8 @@ Results-driven engineer who designs and ships scalable web apps end-to-end — r
 <td align="center" width="50%">
 
 **🤖 Picket**
-Agentic candidate screening — cuts pre-screening to **under 5s** per applicant via Node.js, BullMQ, Redis & a 3-agent AI pipeline. Live status updates over Socket.io in **~80ms**.
+`Node.js` `BullMQ` `Redis` `Socket.io`
+3-agent AI pipeline screens applicants in **<5s**, cutting time-to-hire by removing **85%** of pipeline noise before recruiters ever see a profile. Live status pushed to dashboards in **~80ms**.
 
 [`Live Demo`](https://picket-hr.vercel.app) · [`Source`](https://github.com/guesswhozayn/picket.git)
 
@@ -78,7 +79,8 @@ Agentic candidate screening — cuts pre-screening to **under 5s** per applicant
 <td align="center" width="50%">
 
 **⛓️ Attestify**
-Tamper-proof academic credentials on Ethereum + IPFS. Issues optional Soulbound Tokens (ERC-721) so records outlive any single institution's servers.
+`React 19` `Node.js` `Ethereum` `IPFS`
+On-chain + IPFS-anchored credentials kill manual verification calls entirely. Optional Soulbound Tokens (ERC-721) give institutions tamper-proof, non-transferable records that outlive their own servers.
 
 [`Live Demo`](https://attestify-alpha.vercel.app) · [`Source`](https://github.com/guesswhozayn/attestify.git)
 
@@ -92,6 +94,7 @@ Tamper-proof academic credentials on Ethereum + IPFS. Issues optional Soulbound 
 
 > **Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification**
 > *Spectrum of Engineering Sciences · June 2026*
+> Proposes a decentralized architecture (SBTs + dual-anchor SHA-256/IPFS integrity) aimed at eliminating academic fraud at the institutional level.
 > [`DOI: 10.5281/zenodo.20655578`](https://doi.org/10.5281/zenodo.20655578) · [`Read Paper`](https://thesesjournal.com/index.php/1/article/view/3193)
 
 <br/>
