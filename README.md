@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/guesswhozayn">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript;Building+AI+%2B+Web3+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,9 +20,11 @@
 
 I'm a full-stack engineer focused on building clean, efficient, and scalable web applications. I enjoy working across the entire stack, from designing robust backend databases and APIs to crafting responsive and intuitive user interfaces.
 
-- 💻 Comfortable across the frontend and backend: React, Node.js, databases, and APIs.
-- 🚀 Passionate about clean code, performance optimization, and developer experience.
-- 📬 Always open to discussing new ideas, collaborating on projects, or chatting about tech. Feel free to reach out at **hizainulabidin@gmail.com**.
+- Comfortable across the frontend and backend: React, Node.js, databases, and APIs.
+
+- Passionate about clean code, performance optimization, and developer experience.
+
+- Always open to discussing new ideas, collaborating on projects, or chatting about tech. Feel free to reach out at **hizainulabidin@gmail.com**.
 
 <br/>
 
