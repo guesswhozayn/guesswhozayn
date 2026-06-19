@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/guesswhozayn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript;Building+AI+%2B+Web3+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript;Building+AI+%2B+Web3+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,12 +18,11 @@
 
 ## 👋 About Me
 
-I'm a full-stack engineer who loves building systems from the ground up. Whether it's setting up async job queues, building real-time data pipelines, or designing on-chain infrastructure, I focus on writing clean code that solves real problems—saving hours of manual work and cutting down system friction.
+I'm a full-stack engineer focused on building clean, efficient, and scalable web applications. I enjoy working across the entire stack, from designing robust backend databases and APIs to crafting responsive and intuitive user interfaces.
 
-- 🛠️ Currently building **Picket** — a multi-agent AI pipeline that handles candidate screening in seconds.
-- 🎓 Shipped **Attestify** — a decentralized credentialing platform (now a peer-reviewed publication!).
-- 💻 Comfortable across the stack: from databases and caching to APIs, React frontends, and smart contracts.
-- 📬 Always down to chat about interesting projects or open-source. Drop me a line at **hizainulabidin@gmail.com**.
+- 💻 Comfortable across the frontend and backend: React, Node.js, databases, and APIs.
+- 🚀 Passionate about clean code, performance optimization, and developer experience.
+- 📬 Always open to discussing new ideas, collaborating on projects, or chatting about tech. Feel free to reach out at **hizainulabidin@gmail.com**.
 
 <br/>
 
