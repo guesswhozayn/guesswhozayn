@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Web3+%26+AI+Developer;TypeScript+%2B+Node.js+Specialist" alt="typing svg" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623237622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644f4c65456f54776b46344e5446786f443164326d66314f636b776c457761674a537a37566e69316c59663046687a636c616c32534c49573337674f7a354978535478304f326a65362f77686174692d63686965662e676966">
+<img align="right" alt="coding" width="380" src="./banner.png">
 
 <p align="left">
   <a href="https://z4yn.vercel.app" target="blank">
