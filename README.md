@@ -1,101 +1,86 @@
-<div align="center">
-
-  <h1>Zain Ul Abidin</h1>
-  <p><b>Full-Stack Software Engineer | Web3 & AI Infrastructure Architect</b></p>
-
-  <p>
-    <a href="https://z4yn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-z4yn.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/z4yn"><img src="https://img.shields.io/badge/LinkedIn-Zain--Ul--Abidin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:hizainulabidin@gmail.com"><img src="https://img.shields.io/badge/Email-hizainulabidin-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=2500&pause=1000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Crafting+high-performance+web+platforms;Integrating+blockchain+credentials;Automating+AI-driven+candidate+screening" alt="Typing Banner" />
-
-</div>
+# Zain Ul Abidin
+**Full-Stack Software Engineer**  
+*Building scalable, secure, and performant web applications with Web3 and AI infrastructure.*
 
 ---
 
-### 🏛️ Executive Summary
-I am a results-oriented Full-Stack Software Engineer dedicated to designing, building, and deploying scalable web solutions. With deep expertise in the React ecosystem, Node.js, and TypeScript, I specialize in engineering high-concurrency event-driven backends, implementing smart contract infrastructure, and incorporating GenAI capabilities into core business logic.
+### 🌐 Contact & Social Links
+[![Email](https://img.shields.io/badge/Email-hizainulabidin%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:hizainulabidin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fz4yn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/z4yn)
+[![GitHub](https://img.shields.io/badge/GitHub-guesswhozayn-black?style=flat&logo=github)](https://github.com/guesswhozayn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-z4yn.vercel.app-gray?style=flat&logo=vercel)](https://z4yn.vercel.app)
 
 ---
 
-### 💻 Technologies & Stack
-
-<div align="center">
-
-| Core Languages | Frontend Ecosystem | Backend & Datastores | Cloud, DevOps & Testing |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" /><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br><img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /><br><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br><img src="https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" /><br><img src="https://img.shields.io/badge/CI%20%2F%20CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" /><br><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /> |
-
-</div>
+### 👤 Profile Summary
+Results-driven Full-Stack Software Engineer with a strong foundation in Computer Science. Proficient in designing and deploying scalable web applications using React, Node.js, and TypeScript. Adept at building robust RESTful APIs, optimizing database performance, and integrating modern Web3 and AI infrastructure. Strong focus on clean code, system architecture, and CI/CD pipelines to deliver high-impact, user-centric solutions.
 
 ---
 
-### 🏆 Featured Case Studies
+### 🛠️ Technical Expertise
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Picket — Agentic Screening</h4>
-      <p><i>Automated recruitment pre-screening driven by three-agent AI system.</i></p>
-      <ul>
-        <li>Compressed pre-screening to <b>&lt; 5 seconds</b> per candidate.</li>
-        <li>Eliminated <b>85% of pipeline noise</b> automatically.</li>
-        <li>Built with BullMQ, Redis background jobs, and real-time Socket.io dashboards.</li>
-      </ul>
-      <a href="https://picket-hr.vercel.app"><b>Demo Website</b></a> | 
-      <a href="https://github.com/guesswhozayn"><b>Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔗 Attestify — Credential Infra</h4>
-      <p><i>Academic credential issuance and public verification framework.</i></p>
-      <ul>
-        <li>Implemented React 19, Solidity smart contracts, and Node.js.</li>
-        <li>Distributed storage using IPFS via Pinata to prevent outages.</li>
-        <li>Optional credential format using non-transferable <b>Soulbound Tokens (SBT)</b>.</li>
-      </ul>
-      <a href="https://attestify-alpha.vercel.app"><b>Demo Website</b></a> | 
-      <a href="https://github.com/guesswhozayn"><b>Repository</b></a>
-    </td>
-  </tr>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript, Python, Solidity, C++, SQL |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, HTML5/CSS3, WebSockets |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs, GraphQL, Microservices, Socket.io |
+| **Databases & Cache** | PostgreSQL, MongoDB, Redis, Mongoose, Prisma ORM |
+| **DevOps & Tools** | Git/GitHub, Docker, CI/CD (GitHub Actions), Vercel, Render, Linux, Jest, Postman |
 
 ---
 
-### 📝 Peer-Reviewed Publications
+### 🚀 Key Projects
 
-* **Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification**
-  * Published in **Spectrum of Engineering Sciences** (June 2026)
-  * Developed a novel decentralized framework using Soulbound Tokens (SBTs) and dual-anchoring (IPFS + SHA-256) to eliminate certificate counterfeiting.
-  * **DOI:** [10.5281/zenodo.20655578](https://doi.org/10.5281/zenodo.20655578) — [Read Article](https://thesesjournal.com)
+#### **Picket: Agentic Candidate Screening Platform** | [Live Demo](https://picket-hr.vercel.app)
+*Jan 2026 – May 2026*
+* **Core Stack:** Node.js, BullMQ, Redis, Socket.io, React, Next.js
+* Compressed candidate pre-screening from days of manual effort to **under 5 seconds per applicant** by building an end-to-end background check pipeline utilizing a three-agent AI system.
+* Reduced time-to-hire by filter-screening **85% of pipeline noise** before recruiter review, focusing team resources on qualified talent.
+* Integrated live status updates via **Socket.io** pairing with background job processors to broadcast status changes in under **80ms**.
+
+#### **Attestify: Blockchain-based Academic Credential Infrastructure** | [Live Demo](https://attestify-alpha.vercel.app)
+*Oct 2025 – Mar 2026*
+* **Core Stack:** React 19, Node.js, MongoDB, Ethereum (Solidity), IPFS (Pinata)
+* Developed a decentralized credentialing platform to issue tamper-proof academic certificates, eliminating manual verification processes.
+* Enabled permanent availability by storing documents on **IPFS via Pinata** and anchoring content hashes on-chain.
+* Implemented Soulbound Tokens (**ERC-721 non-transferable**) directly to student wallets as a secure, non-transferable credential format.
 
 ---
 
-### 🎓 Academic & Certifications
+### 📝 Publications
 
-* **B.S. in Computer Science** | The University of Chakwal (2022 - 2026) — *CGPA: 3.43 / 4.00*
-* **Harvard CS50** | Web Programming with Python and JavaScript
-* **HackerRank** | Certified React Developer
-* **Cyfrin Updraft** | Blockchain Basics
+#### **Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification**
+*Spectrum of Engineering Sciences | June 2026*
+* Authored a research paper detailing a decentralized architecture combining non-transferable Soulbound Tokens (SBTs) and dual-anchor document integrity (SHA-256 and IPFS) to prevent academic credential fraud.
+* **DOI:** [10.5281/zenodo.20655578](https://doi.org/10.5281/zenodo.20655578) | **Link:** [Read Paper](https://thesesjournal.com)
 
 ---
 
-### 📊 Performance Metrics
+### 🎓 Education & Certifications
+
+#### **Education**
+* **Bachelor of Science in Computer Science** — The University of Chakwal (2022 – 2026)
+  * **CGPA:** 3.43 / 4.00
+  * *Relevant Coursework:* Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Web Engineering, Operating Systems, Software Engineering, Artificial Intelligence
+
+#### **Certifications**
+* **Web Programming with Python and JavaScript** (Harvard CS50) — *August 2025*
+* **Certified React Developer** (HackerRank) — *July 2025*
+* **Blockchain Basics** (Cyfrin Updraft) — *October 2025*
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&theme=material-palenight&hide_border=true&title_color=82B1FF&icon_color=80CBC4&text_color=A6ACCD&bg_color=292D3E" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&theme=material-palenight&hide_border=true&title_color=82B1FF&icon_color=80CBC4&text_color=A6ACCD&bg_color=292D3E" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guesswhozayn&theme=material-palenight&hide_border=true&ring=82B1FF&fire=80CBC4&currStreakLabel=A6ACCD&currStreakNum=ffffff&sideNums=A6ACCD&sideLabels=A6ACCD&dates=A6ACCD&background=292D3E" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed for recruiters and technical directors. Zain Ul Abidin • 2026</sub>
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&theme=default&count_private=true&hide_title=false" alt="Zain's GitHub Stats" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&theme=default" alt="Zain's Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
