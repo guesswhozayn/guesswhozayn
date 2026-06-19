@@ -52,69 +52,6 @@ I'm a full-stack engineer who loves building systems from the ground up. Whether
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/guesswhozayn/picket">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guesswhozayn&repo=picket&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/guesswhozayn/attestify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guesswhozayn&repo=attestify&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🤖 Picket**
-`Node.js` `BullMQ` `Redis` `Socket.io`
-
-An AI-powered screening pipeline that evaluates applications in under 5 seconds, filtering out 85% of unqualified profiles before a recruiter ever sees them. It uses BullMQ and Redis to push live updates to the frontend dashboard in ~80ms.
-
-[`Live Demo`](https://picket-hr.vercel.app) · [`Source`](https://github.com/guesswhozayn/picket.git)
-
-</td>
-<td align="center" width="50%">
-
-**⛓️ Attestify**
-`React 19` `Node.js` `Ethereum` `IPFS`
-
-A secure credentialing framework that eliminates manual verification checks entirely. Using IPFS and optional Soulbound Tokens (ERC-721), it allows institutions to issue tamper-proof, non-transferable records that stay secure forever.
-
-[`Live Demo`](https://attestify-alpha.vercel.app) · [`Source`](https://github.com/guesswhozayn/attestify.git)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📄 Publication
-
-> **Attestify: A Hybrid Blockchain-IPFS Framework for Credential Verification**
-> *Spectrum of Engineering Sciences · June 2026*
-> 
-> Proposes a decentralized architecture using Soulbound Tokens (SBTs) and dual-anchor integrity checks (SHA-256/IPFS) to prevent academic credential fraud at the institutional level.
->
-> [`DOI: 10.5281/zenodo.20655578`](https://doi.org/10.5281/zenodo.20655578) · [`Read Paper`](https://thesesjournal.com/index.php/1/article/view/3193)
-
-<br/>
-
-## 🏆 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Harvard%20CS50-Web%20Programming-A51C30?style=for-the-badge&logo=harvard&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-Certified%20React%20Dev-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/Cyfrin%20Updraft-Blockchain%20Basics-6A5ACD?style=for-the-badge&logo=ethereum&logoColor=white" />
-
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
