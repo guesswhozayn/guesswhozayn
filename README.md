@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=Your+seat+in+the+repo+is+ready.;Don%27t+mind+the+console%2C+it+only+says+nice+things.;No+bugs+here%2C+only+warm+welcomes.;git+checkout+-b+hello-friend" alt="Typing intro" />
 </a>
 
+<div align="center">
+  <img src="./profile.svg" alt="Zayn's Readme" width="100%" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-z4yn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950&labelColor=0D1117&color=30363D)](https://www.linkedin.com/in/z4yn)
 [![Website](https://img.shields.io/badge/web-zayyn.tech-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3FB950&labelColor=0D1117&color=30363D)](https://zayyn.tech)
 [![Email](https://img.shields.io/badge/mail-hizainulabidin%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950&labelColor=0D1117&color=30363D)](mailto:hizainulabidin@gmail.com)
