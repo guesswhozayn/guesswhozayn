@@ -5,7 +5,7 @@
 </a>
 
 <div align="center">
-  <img src="./profile.svg" alt="Zayn's Readme" width="100%" />
+  <img src="./profile.svg" alt="banner" width="100%" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-z4yn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950&labelColor=0D1117&color=30363D)](https://www.linkedin.com/in/z4yn)
