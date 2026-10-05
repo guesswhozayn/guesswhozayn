@@ -64,9 +64,6 @@ export const projects = [
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950" alt="Top languages" />
-
 </div>
 
 ```bash
