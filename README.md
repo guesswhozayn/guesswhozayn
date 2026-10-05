@@ -17,29 +17,59 @@ const zain: SoftwareEngineer = {
   name: "Zain Ul Abidin",
   location: "Islamabad, Pakistan",
   role: "Full Stack Engineer @ Foundrium",
-  education: "BS Computer Science",
+  education: "BS Computer Science, The University of Chakwal (2026)",
   website: "zayyn.tech",
 };
 ```
 
-```ts
-// stack.ts
-const stack = {
-  code: ["JavaScript", "TypeScript", "Python"],
-  frontend: ["React", "Next.js", "Redux", "Zustand", "Context API", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs", "GraphQL", "Socket.io"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  devops: ["CI/CD", "Docker", "Linux", "Vercel", "Render"],
-  tools: ["Git", "GitHub", "Postman", "VS Code", "Chrome DevTools", "CLI"],
-  integrations: ["Stripe", "Third-Party APIs"],
-};
+```json
+// package.json
+{
+  "name": "zain-ul-abidin",
+  "version": "1.0.0",
+  "description": "Software Engineer",
+  "languages": {
+    "javascript": "latest",
+    "typescript": "latest",
+    "python": "latest"
+  },
+  "dependencies": {
+    "react": "latest",
+    "next": "latest",
+    "redux": "latest",
+    "zustand": "latest",
+    "tailwindcss": "latest",
+    "node": "latest",
+    "express": "latest",
+    "graphql": "latest",
+    "socket.io": "latest",
+    "stripe": "latest"
+  },
+  "databases": {
+    "postgresql": "latest",
+    "mongodb": "latest",
+    "mysql": "latest",
+    "redis": "latest"
+  },
+  "devDependencies": {
+    "git": "latest",
+    "docker": "latest",
+    "linux": "latest",
+    "postman": "latest",
+    "vscode": "latest",
+    "chrome-devtools": "latest"
+  },
+  "scripts": {
+    "deploy": "vercel | render",
+    "ship": "ci/cd"
+  }
+}
 ```
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,nodejs,express,graphql,postgres,mongodb,mysql,redis,docker,linux,vercel,git,github,postman&theme=dark" alt="Tech stack icons" />
-</p>
 
 ```bash
 $ git log --oneline --author="zain"
+
+a1f9c3e (HEAD) May 2026 - Present  Full Stack Engineer @ Foundrium (Hybrid)
 ```
 
 ```ts
@@ -61,6 +91,12 @@ export const projects = [
 | **outlio** | AI job application tool that extracts requirements from job postings and generates tailored resume content and recruiter outreach | `2026` | [`repo`](https://github.com/guesswhozayn?tab=repositories) |
 | **digestible** | AI-powered web and mobile app that turns short-form videos into summaries, timestamps, and takeaways in a searchable library | `2026` | [`repo`](https://github.com/guesswhozayn?tab=repositories) |
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guesswhozayn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guesswhozayn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950" alt="Top languages" />
+
+</div>
 
 ```bash
 $ cat availability.txt
