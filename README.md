@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://zayyn.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=%24+whoami;Zain+Ul+Abidin+%7C+Software+Engineer;Full+Stack+%7C+React+%2B+Next.js+%2B+Node.js;Building+AI-powered+web+apps" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=Your+seat+in+the+repo+is+ready.;Don%27t+mind+the+console%2C+it+only+says+nice+things.;No+bugs+here%2C+only+warm+welcomes.;git+checkout+-b+hello-friend" alt="Typing intro" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-z4yn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950&labelColor=0D1117&color=30363D)](https://www.linkedin.com/in/z4yn)
@@ -17,7 +17,6 @@ const zain: SoftwareEngineer = {
   name: "Zain Ul Abidin",
   location: "Islamabad, Pakistan",
   role: "Full Stack Engineer @ Foundrium",
-  freelance: "Software Engineer @ Upwork",
   education: "BS Computer Science, The University of Chakwal (2026)",
   website: "zayyn.tech",
 };
@@ -36,17 +35,14 @@ const stack = {
 };
 ```
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,nodejs,express,graphql,postgres,mongodb,mysql,redis,docker,linux,vercel,git,github,postman&theme=dark" alt="Tech stack icons" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,nodejs,express,graphql,postgres,mongodb,mysql,redis,docker,linux,vercel,git,github,postman&theme=dark" alt="Tech stack icons" />
+</p>
 
 ```bash
 $ git log --oneline --author="zain"
 
 a1f9c3e (HEAD) May 2026 - Present  Full Stack Engineer @ Foundrium (Hybrid)
-7d2b8e4        Aug 2024 - Present  Freelance Software Engineer @ Upwork (Remote)
 ```
 
 ```ts
@@ -77,7 +73,7 @@ export const projects = [
 
 ```bash
 $ cat availability.txt
-Open to freelance work and full-time roles.
+Open to new opportunities.
 
 $ ./contact --email hizainulabidin@gmail.com --web zayyn.tech
 > Say hi. I'm happy to connect.
