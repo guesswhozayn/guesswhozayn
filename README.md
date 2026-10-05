@@ -34,10 +34,12 @@ const stack = {
   integrations: ["Stripe", "Third-Party APIs"],
 };
 ```
-
-<p align="center">
+<div align="center">
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,nodejs,express,graphql,postgres,mongodb,mysql,redis,docker,linux,vercel,git,github,postman&theme=dark" alt="Tech stack icons" />
 </p>
+</div>
+
 
 ```bash
 $ git log --oneline --author="zain"
@@ -62,9 +64,6 @@ export const projects = [
 | **outlio** | AI job application tool that extracts requirements from job postings and generates tailored resume content and recruiter outreach | `2026` | [`repo`](https://github.com/guesswhozayn?tab=repositories) |
 | **digestible** | AI-powered web and mobile app that turns short-form videos into summaries, timestamps, and takeaways in a searchable library | `2026` | [`repo`](https://github.com/guesswhozayn?tab=repositories) |
 
-<div align="center">
-
-</div>
 
 ```bash
 $ cat availability.txt
