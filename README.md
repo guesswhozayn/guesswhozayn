@@ -34,12 +34,9 @@ const stack = {
   integrations: ["Stripe", "Third-Party APIs"],
 };
 ```
-<div align="center">
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,nodejs,express,graphql,postgres,mongodb,mysql,redis,docker,linux,vercel,git,github,postman&theme=dark" alt="Tech stack icons" />
 </p>
-</div>
-
 
 ```bash
 $ git log --oneline --author="zain"
