@@ -17,7 +17,7 @@ const zain: SoftwareEngineer = {
   name: "Zain Ul Abidin",
   location: "Islamabad, Pakistan",
   role: "Full Stack Engineer @ Foundrium",
-  education: "BS Computer Science, The University of Chakwal (2026)",
+  education: "BS Computer Science",
   website: "zayyn.tech",
 };
 ```
@@ -64,12 +64,6 @@ const zain: SoftwareEngineer = {
     "ship": "ci/cd"
   }
 }
-```
-
-```bash
-$ git log --oneline --author="zain"
-
-a1f9c3e (HEAD) May 2026 - Present  Full Stack Engineer @ Foundrium (Hybrid)
 ```
 
 ```ts
