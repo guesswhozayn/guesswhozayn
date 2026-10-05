@@ -7,6 +7,8 @@
 <div align="center">
   <img src="./profile.svg" alt="Zayn's Readme" width="100%" />
 </div>
+
+<div>
 [![LinkedIn](https://img.shields.io/badge/linkedin-z4yn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950&labelColor=0D1117&color=30363D)](https://www.linkedin.com/in/z4yn)
 [![Website](https://img.shields.io/badge/web-zayyn.tech-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3FB950&labelColor=0D1117&color=30363D)](https://zayyn.tech)
 [![Email](https://img.shields.io/badge/mail-hizainulabidin%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950&labelColor=0D1117&color=30363D)](mailto:hizainulabidin@gmail.com)
