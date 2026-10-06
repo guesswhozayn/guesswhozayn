@@ -4,7 +4,7 @@
 
 ```ts
 // about.ts
-const zain: SoftwareEngineer = {
+const zain: swe = {
   name: "Zain Ul Abidin",
   role: "Full Stack Engineer @ Foundrium",
   education: "BSc Computer Science",
